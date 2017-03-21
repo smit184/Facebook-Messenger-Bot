@@ -1,0 +1,39 @@
+{
+  "name": "messenger-get-started",
+  "version": "1.0.0",
+  "description": "Get started example for Messenger Platform",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "lint": "jshint --exclude node_modules .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fbsamples/messenger-platform-samples.git"
+  },
+  "author": "Facebook",
+  "license": "ISC",
+  "dependencies": {
+    "autocorrect": "^1.2.0",
+    "body-parser": "^1.15.0",
+    "capitalize": "^1.0.0",
+    "change-case": "^3.0.1",
+    "coinbase": "^2.0.6",
+    "config": "^1.20.4",
+    "dateformat": "^2.0.0",
+    "dotenv": "^4.0.0",
+    "ejs": "^2.4.2",
+    "express": "^4.13.4",
+    "google-speech": "0.0.5",
+    "mongoose": "^4.8.3",
+    "nuance": "^1.1.1",
+    "one-liner-joke": "^1.0.0",
+    "request": "^2.72.0",
+    "underscore": "^1.8.3",
+    "weather-js": "^1.0.2"
+  },
+  "engines": {
+    "node": "~4.1.2"
+  }
+}
