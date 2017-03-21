@@ -1,6 +1,6 @@
 # Botty: A Facebook Messenger bot built in Node.js
 
-This project came to fruition during a hackaton. Our team featured four members: Andrew Min, Don Kim, Irvin Tang, and Smit Patel.
+This project came to fruition during a hackaton. Our team featured four members: Smit Patel, Andrew Min, Don Kim and Irvin Tang
 
 It offers the following functionality:
 
